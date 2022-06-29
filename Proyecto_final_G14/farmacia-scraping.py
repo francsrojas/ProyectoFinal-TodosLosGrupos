@@ -206,9 +206,8 @@ def ahumada_consultar_principio(principio, nombre_archivo_resultados, valor_uf):
 def main():
     if len(argv) < 2:
         print('Especificar parámetros!')
-        print('-a: Ejecuta scraper para Ahumada')
-        print('-cv: Ejecuta scraper para Cruz Verde')
-        print('-s: Ejecuta scraper para Salcobrand')
+        print('-a: Ejecuta python3 farmacia-scraping.py -a para hacer un scraping de farmacias ahumada')
+        print('-s: Ejecuta python3 farmacia-scraping.py -s para hacer un scraping de farmacias salcobrand')
         # SE LE INDICA AL SISTEMA QUE OCURRIÓ UN ERROR
         exit(1)
 
