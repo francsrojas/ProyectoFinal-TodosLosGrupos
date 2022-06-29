@@ -1,11 +1,11 @@
 # ProyectoFinal-TodosLosGrupos
 
-Usage: 
-py main.py --text principios_activos.txt
+Proyecto Final Grupo 13
 
-Integrantes
-- Juan Ignacio Ayala
-- Pablo Moya
-- Macarena Mujica
-- Laura Martinez
-- Josefina Olmos
+¡Bienvenido al Proyecto Final! Para evitar problemas correr en Google Colab, por favor.
+
+Integrantes:
+Belén Álamo
+Antonio Cardoen
+Ignacio Court
+Fernanda Nicolás
